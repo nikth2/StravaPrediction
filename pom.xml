@@ -2,13 +2,13 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>nikth.services</groupId>
   <artifactId>strava-prediction</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.2-SNAPSHOT</version>
   <name>StravaPrediction</name>
   <dependencies>
   	<dependency>
   		<groupId>io.swagger</groupId>
   		<artifactId>swagger-java-client</artifactId>
-  		<version>1.0.0</version>
+  		<version>1.0.1</version>
   	</dependency>
 <!--   	<dependency> -->
 <!-- 	<groupId>com.squareup.okhttp3</groupId> -->
